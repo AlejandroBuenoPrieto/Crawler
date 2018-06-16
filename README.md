@@ -1,5 +1,5 @@
-# miradetodoCrawler
+# BadBunnyCrawler
 
-A simple crawler of the website http://miradetodo.io that returns the information of the first 20 pages of the films last added.
+A simple crawler of the website https://github.com/AlejandroBuenoPrieto/Crawler/ that download all the songs of BadBunny or if you change in the url the singer you will be able to download his songs.
 
 Do it for fun and learn.
